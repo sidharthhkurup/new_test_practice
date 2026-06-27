@@ -1,3 +1,4 @@
 Doc 2 - Before Pushing - Inside Folder Alpha
 Doc 2 - Updated - Inside Folder Alpha
 Doc 2 - Edited in github - Inside Folder Alpha
+Doc 2 - Editing back to normal - Inside Folder Alpha
